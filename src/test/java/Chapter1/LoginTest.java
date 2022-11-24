@@ -23,6 +23,7 @@ public class LoginTest {
 		CurrentPopulationCount(xpath_current_pop);
 		todaypopulation(xpath_today_pop);
 		System.out.println("Test to check git");
+		System.out.println("find me");
 			}
 	
 	public static void CurrentPopulationCount(String locator)
